@@ -45,6 +45,7 @@ img{
 .main-wrapper .info-title{
   font-size: 1.4em;
   font-family: 'outfit-700';
+  color: hsl(218, 44%, 22%);
 }
 
 .main-wrapper .info-paragraph{
